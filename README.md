@@ -1,4 +1,4 @@
-In this project, we aimed to evaluate the performance of different collar strategies across various market cycles, specifically during the pre-COVID (2017-2019), COVID (2019-2020), and post-COVID (2020-2023) periods​.
+In this project, we aimed to evaluate the **performance of different collar strategies** across various market cycles, specifically during the pre-COVID (2017-2019), COVID (2019-2020), and post-COVID (2020-2023) periods​.
 
 **Project Objectives:**
 
@@ -8,7 +8,7 @@ Comparative Analysis: Our goal was to compare the performances of these portfoli
 
 **Collar Strategy:**
 
-A collar strategy is a risk management approach combining a long position in the underlying asset, a protective put option to limit downside risk, and a short call option to cap upside potential​(collarpre-4).
+A collar strategy is a risk management approach combining a long position in the underlying asset, a protective put option to limit downside risk, and a short call option to cap upside potential​.
 This strategy is ideal for investors seeking downside protection while willing to accept limited gains.
 
 **Portfolio Construction:**
